@@ -1,0 +1,1 @@
+En esta aplicacion de net maui, le pedimos a el usuario que ingrese un numero, que luego al darle click al boton de calcular, sera mostrado en los labels de abajo, pero siendo elevado al cuadrado, el primer label, y al cubo, el segundo label
